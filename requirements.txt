@@ -56,7 +56,6 @@ slicer==0.0.7
 smmap==5.0.0
 Sphinx==4.2.0
 streamlit==1.11.0
-tables==3.6.1
 tangled-up-in-unicode==0.2.0
 TBB==0.2
 terminado==0.9.4
